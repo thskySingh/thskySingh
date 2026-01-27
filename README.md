@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+💡 Final-year BCA student who has already built two full-stack .NET apps and can’t wait to craft the next one.<br><br>👇I’m Akash Singh, a Delhi-based developer in training who loves turning ideas into clean, working code. My toolkit spans C#, JavaScript, HTML/CSS, ASP.NET, ASP.NET MVC, backed by solid SQL Server design.<br><br>Recent wins<br><br>• Designed a full CRUD web app in C# and .NET, complete with role-based SQL Server integration.<br>• Built a Web Form that lets users add, edit, delete and search data—simple for users, packed with learning for me.Why I’m more than my code<br>• 16 months in HR operations taught me teamwork, documentation and deadlines.<br>• Current role at IDEMIA keeps my data accuracy sharp.<br>• Pursuing an Ethical Hacking &amp; Cyber Security course 🔐 to write safer software from day one.<br><br>Quick view <br>👀💻 Languages: C, C++, C#, JavaScript🔧 Frameworks: .NET, ASP.NET, MVC<br>🗄️ Databases: MS SQL Server, MySQL<br>✨ Traits: clear communicator, organised, fast learner, problem solver<br><br>Goal 🎯<br><br>Join a collaborative team where I can grow from junior developer to trusted contributor while adding real value along the way.<br><br>🤝 Let’s connect or drop me a note if you’d like to chat about entry-level opportunities or see project screenshots.
 
-<!--
-**thskySingh/thskySingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thskysingh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/singhakash24) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aa.singhakash2434@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=thskySingh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=thskySingh&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=thskySingh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=thskySingh&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
